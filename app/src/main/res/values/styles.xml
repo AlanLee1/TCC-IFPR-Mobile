@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorToolBar</item> <!--Cor para barra de notificação -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Tema para tela de Login -->
+    <style name="AppThemelogin" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!--Cor para barra de notificação -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
